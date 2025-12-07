@@ -21,7 +21,6 @@ body{
 .current-temperature-unit{
     font-size: 28px;
     line-height:100px;
-    margin-top:20px;
 }
 
 .current-temperature-value{
@@ -82,6 +81,7 @@ main{
 .weather-forecast-temperatures {
   display: flex;
   color: #f65282;
+  justify-content:center;
 }
 .weather-forecast-temperature {
   margin: 5px 5px;
